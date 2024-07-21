@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+google-cloud-speech
+moviepy
+pydub
+boto3
+Pillow
+requests
+openai
